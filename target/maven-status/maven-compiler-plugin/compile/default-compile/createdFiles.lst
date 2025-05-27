@@ -1,0 +1,5 @@
+com\mycompany\registrationloginsystem\MainApp.class
+com\mycompany\registrationloginsystem\Login.class
+com\mycompany\registrationloginsystem\Registration.class
+com\mycompany\registrationloginsystem\Message.class
+com\mycompany\registrationloginsystem\MessageStorage.class
